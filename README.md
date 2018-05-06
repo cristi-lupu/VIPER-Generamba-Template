@@ -36,3 +36,15 @@
 			PhotosRouterInput.swift
 		PhotosRouter.swift
 ````
+
+## Usage
+
+Use only with [Generamba](https://github.com/rambler-digital-solutions/Generamba)
+
+## Author
+
+Lupu Cristian, lupucristiancptc@gmail.com
+
+## License
+
+VIPER Generamba Template is available under the MIT license. See the [LICENSE](https://github.com/cristiLupu/VIPER-Generamba-Template/blob/master/LICENSE.md) file for more info.
