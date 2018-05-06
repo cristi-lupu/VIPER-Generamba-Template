@@ -15,7 +15,7 @@
 		PhotosModule.swift
 	- Assembly/
 		PhotosAssembly.swift
-	- View
+	- View/
 		- View Input/
 			PhotosViewInput.swift
 		- View Output/
