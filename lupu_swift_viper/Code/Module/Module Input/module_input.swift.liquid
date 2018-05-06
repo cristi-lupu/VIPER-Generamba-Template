@@ -1,0 +1,17 @@
+//
+//  {{ module_info.name }}{{ module_info.file_name }}
+//  {{ module_info.project_name }}
+//
+//  Created by {{ developer.name }} on {{ date }}.
+//  Copyright © {{ year }} {{ developer.company }}. All rights reserved.
+//
+
+import Foundation
+
+public protocol {{ module_info.name }}ModuleInput: class {
+	
+	func configure(with configuration: {{ module_info.name }}ModuleConfiguration)
+
+    func set(moduleOutput: {{ module_info.name }}ModuleOutput)
+	
+}
