@@ -11,7 +11,6 @@ code_files:
 # Module Layer
 - {name: Module/Module Input/ModuleInput.swift, path: Code/Module/Module Input/module_input.swift.liquid}
 - {name: Module/Module Output/ModuleOutput.swift, path: Code/Module/Module Output/module_output.swift.liquid}
-- {name: Module/Module Configuration/ModuleConfiguration.swift, path: Code/Module/Module Configuration/module_configuration.swift.liquid}
 - {name: Module/Module.swift, path: Code/Module/module.swift.liquid}
 
 # Assembly Layer
