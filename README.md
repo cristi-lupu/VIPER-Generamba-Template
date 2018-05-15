@@ -10,8 +10,6 @@
 			PhotosModuleInput.swift
 		- Module Output/
 			PhotosModuleOutput.swift
-		- Module Configuration/
-			PhotosModuleConfiguration.swift
 		PhotosModule.swift
 	- Assembly/
 		PhotosAssembly.swift
