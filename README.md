@@ -41,7 +41,7 @@ Use only with [Generamba](https://github.com/rambler-digital-solutions/Generamba
 
 ## Author
 
-Cristian Lupu, cristian.lupu@ellation.com, lupucristiancptc@gmail.com
+lupucristiancptc@gmail.com
 
 ## License
 
